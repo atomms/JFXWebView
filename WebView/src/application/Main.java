@@ -33,7 +33,6 @@ public class Main extends Application {
 
 			Scene myscene = new Scene(mypane);
 			myStage.setScene(myscene);
-			myStage.setFullScreen(true);
 			myStage.show();
 
 		} catch (Exception e) {
